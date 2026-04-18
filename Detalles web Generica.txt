@@ -1,0 +1,10 @@
+necesito una pagina web con las siguientes caracteristicas:
+
+1.- Una imagen de fondo tipo hero, a definir colo fondo.png
+2.- Menú Hamburguesa, para versión mobil.
+2.- Menú tipico Inicio, Quines somos, Productos, Servicios, Portafolio y Contacto.
+3.- El menú Contacto, debe desplegar un formulario, y enviarlo por formsub a un correo.
+4.- Cada Menú debe llevar a una sección con información y presentarla en una Card, semi translucida.
+5.- Se busca una página informativa y Land Page.
+6.- Logotipo e Isotipo en la esquina superior izquierda, llamado logo.png
+
